@@ -6,6 +6,7 @@
 
 | Jupyter | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Fooocus-docker/blob/main/docker.ipynb) | docker.ipynb
 [![Open In Jupyter](https://github.com/camenduru/Fooocus-docker/assets/54370274/28fe80b2-a2d6-44bc-9342-2965c6b2adfc)](https://colab.research.google.com/github/camenduru/Fooocus-docker/blob/main/docker.ipynb) | docker.ipynb
 
 ## Style Reference
