@@ -4,9 +4,9 @@
 
 ## 🐳 Docker
 
-| Colab | Info
+| Jupyter | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Fooocus-docker/blob/main/docker.ipynb) | sd_xl_fooocus_colab <br /> [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) (Old Version)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Fooocus-docker/blob/main/docker.ipynb) | docker.ipynb
 
 ## Style Reference
 - 105 styles [prompt: cat] 🐈
