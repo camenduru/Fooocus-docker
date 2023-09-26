@@ -17,6 +17,7 @@ https://docs.google.com/spreadsheets/d/1AF5bd-fALxlu0lguZQiQVn1yZwxUiBJGyh2eyJJW
 
 ## Main Repo
 https://github.com/lllyasviel/Fooocus (Thanks to @lllyasviel ❤) <br />
+https://github.com/MoonRide303/Fooocus-MRE (Thanks to @MoonRide303 ❤) <br />
 https://github.com/AUTOMATIC1111/stable-diffusion-webui <br />
 https://github.com/comfyanonymous/ComfyUI <br />
 
